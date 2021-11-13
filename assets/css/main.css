@@ -873,7 +873,7 @@
 .home-product-item__img {
   padding-top: 100%;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   border-top-left-radius: 2px;
   border-top-right-radius: 2px;
